@@ -1,4 +1,4 @@
-# CALCULADORA Como primer proyecto completo de DIW y DWEC
+# CALCULADORA Windows...
 
-**Autor:** Pablo Gonzalez Ruiz
-**Profesion:** Estudiante  DAW
+**Autor:**Daniel Cadenas Dominguez
+**Profesion:** Estudiante 2.DAW
